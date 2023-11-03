@@ -20,7 +20,7 @@ function destroy(id) {
     <BreezeAuthenticatedLayout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Laravel 9 Vue JS CRUD App using Vite Example - LaravelTuts.com
+                Laravel Crud
             </h2>
         </template>
         <div class="py-12">

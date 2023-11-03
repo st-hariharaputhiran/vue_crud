@@ -1,5 +1,10 @@
 import './bootstrap';
 import '../css/app.css';
+//import '../css/material-dashboard.css';
+import '../css/material-dashboard.css.map';
+//import '../css/material-dashboard.min.css';
+import '../css/nucleo-icons.css';
+import '../css/nucleo-svg.css';
 
 import { createApp, h } from 'vue';
 import { createInertiaApp } from '@inertiajs/vue3';
